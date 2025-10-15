@@ -88,7 +88,7 @@ We welcome contributions! Here's how you can help:
 
 ## 🌟 Languages Included
 
-- [ ] JavaScript (Node.js)
+- [✓] JavaScript (Node.js)
 - [ ] Python
 - [ ] Java
 - [ ] Go
