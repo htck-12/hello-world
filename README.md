@@ -125,7 +125,7 @@ We welcome contributions! Here's how you can help:
 - [ ] Scheme
 - [ ] Smalltalk
 - [ ] Forth
-- [ ] Brainfuck
+- [✓] Brainfuck
 - [ ] Malbolge
 - [ ] Whitespace
 - [ ] And many more...
