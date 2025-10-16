@@ -101,7 +101,7 @@ We welcome contributions! Here's how you can help:
 - [✓] Go
 - [ ] Rust
 - [ ] C
-- [ ] C++
+- [✓] C++
 - [ ] TypeScript
 - [ ] Ruby
 - [ ] PHP
@@ -113,7 +113,7 @@ We welcome contributions! Here's how you can help:
 - [ ] Elixir
 - [ ] Erlang
 - [ ] Perl
-- [ ] R
+- [✓] R
 - [ ] MATLAB
 - [ ] Assembly
 - [✓] Shell/Bash
