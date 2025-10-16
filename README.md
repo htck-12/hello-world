@@ -5,6 +5,7 @@ A comprehensive collection of "Hello World" programs written in various programm
 ## 📚 Purpose
 
 This project aims to:
+
 - Demonstrate the basic syntax of different programming languages
 - Provide a quick reference for "Hello World" implementations
 - Help developers understand language-specific conventions
@@ -37,33 +38,39 @@ hello-world/
 ## 🛠️ How to Run
 
 ### Prerequisites
+
 - Install the specific language runtime/compiler for the language you want to run
 - Follow the instructions in each language's directory
 
 ### Running Examples
 
 **JavaScript (Node.js):**
+
 ```bash
 node hello.js
 ```
 
 **Python:**
+
 ```bash
 python hello.py
 ```
 
 **Java:**
+
 ```bash
 javac Hello.java
 java Hello
 ```
 
 **Go:**
+
 ```bash
 go run hello.go
 ```
 
 **Rust:**
+
 ```bash
 rustc hello.rs
 ./hello
@@ -109,7 +116,7 @@ We welcome contributions! Here's how you can help:
 - [ ] R
 - [ ] MATLAB
 - [ ] Assembly
-- [ ] Shell/Bash
+- [✓] Shell/Bash
 - [ ] PowerShell
 - [ ] Lua
 - [ ] Dart
@@ -133,6 +140,7 @@ We welcome contributions! Here's how you can help:
 ## 📖 Learning Resources
 
 Each language implementation includes:
+
 - Basic syntax demonstration
 - Language-specific features
 - Comments explaining key concepts
@@ -156,4 +164,4 @@ Thanks to all contributors who have helped build this collection of Hello World 
 
 **Happy Coding!** 🎉
 
-*"The journey of a thousand miles begins with a single 'Hello World'."*
+_"The journey of a thousand miles begins with a single 'Hello World'."_
