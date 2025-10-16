@@ -117,7 +117,7 @@ We welcome contributions! Here's how you can help:
 - [ ] MATLAB
 - [ ] Assembly
 - [✓] Shell/Bash
-- [ ] PowerShell
+- [✓] PowerShell
 - [ ] Lua
 - [ ] Dart
 - [ ] Julia
