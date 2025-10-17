@@ -104,7 +104,7 @@ We welcome contributions! Here's how you can help:
 - [✓] C++
 - [ ] TypeScript
 - [ ] Ruby
-- [ ] PHP
+- [✓] PHP
 - [ ] Swift
 - [ ] Kotlin
 - [ ] Scala
