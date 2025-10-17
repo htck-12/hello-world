@@ -97,7 +97,7 @@ We welcome contributions! Here's how you can help:
 
 - [✓] JavaScript (Node.js)
 - [✓] Python
-- [ ] Java
+- [✓] Java
 - [✓] Go
 - [ ] Rust
 - [ ] C
