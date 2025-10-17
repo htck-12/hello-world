@@ -100,13 +100,13 @@ We welcome contributions! Here's how you can help:
 - [✓] Java
 - [✓] Go
 - [✓] Rust
-- [ ] C
+- [✓] C
 - [✓] C++
-- [ ] TypeScript
-- [ ] Ruby
+- [✓] TypeScript
+- [✓] Ruby
 - [✓] PHP
 - [ ] Swift
-- [ ] Kotlin
+- [✓] Kotlin
 - [ ] Scala
 - [ ] Clojure
 - [ ] Haskell
@@ -114,7 +114,7 @@ We welcome contributions! Here's how you can help:
 - [ ] Erlang
 - [ ] Perl
 - [✓] R
-- [ ] MATLAB
+- [✓] MATLAB
 - [ ] Assembly
 - [✓] Shell/Bash
 - [✓] PowerShell
