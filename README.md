@@ -96,7 +96,7 @@ We welcome contributions! Here's how you can help:
 ## 🌟 Languages Included
 
 - [✓] JavaScript (Node.js)
-- [ ] Python
+- [✓] Python
 - [ ] Java
 - [✓] Go
 - [ ] Rust
