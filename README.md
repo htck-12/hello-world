@@ -99,7 +99,7 @@ We welcome contributions! Here's how you can help:
 - [✓] Python
 - [✓] Java
 - [✓] Go
-- [ ] Rust
+- [✓] Rust
 - [ ] C
 - [✓] C++
 - [ ] TypeScript
