@@ -126,7 +126,7 @@ We welcome contributions! Here's how you can help:
 - [ ] Prolog
 - [ ] COBOL
 - [ ] Fortran
-- [ ] Pascal
+- [✓] Pascal
 - [ ] Ada
 - [ ] Lisp
 - [ ] Scheme
