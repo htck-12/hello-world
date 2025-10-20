@@ -106,10 +106,10 @@ We welcome contributions! Here's how you can help:
 - [✓] Ruby
 - [✓] PHP
 - [ ] Swift
-- [✓] Kotlin 
+- [✓] Kotlin
 - Ghufron
 - [ ] Scala
-alfattich
+      alfattich
 - [ ] Clojure
 - [ ] Haskell
 - [ ] Elixir
@@ -138,6 +138,7 @@ alfattich
 - [ ] Malbolge
 - [ ] Whitespace
 - [ ] And many more...
+- [ ] Coming soon...
 
 ## 📖 Learning Resources
 
