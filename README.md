@@ -137,7 +137,7 @@ We welcome contributions! Here's how you can help:
 - [✓] Brainfuck
 - [ ] Malbolge
 - [ ] Whitespace
-- [ ] And many more...
+- [ ] Golang 
 - [ ] c++
 
 ## 📖 Learning Resources
