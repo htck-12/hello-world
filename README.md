@@ -107,7 +107,7 @@ We welcome contributions! Here's how you can help:
 - [✓] PHP
 - [ ] Swift
 - [✓] Kotlin 
-- Ghufron
+- [ ] Haskell
 - [ ] Scala
 - [ ] css
 - [ ] Clojure
