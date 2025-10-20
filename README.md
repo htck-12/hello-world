@@ -138,7 +138,7 @@ We welcome contributions! Here's how you can help:
 - [ ] Malbolge
 - [ ] Whitespace
 - [ ] And many more...
-- [ ] Coming soon...
+- [ ] c++
 
 ## 📖 Learning Resources
 
