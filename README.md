@@ -129,7 +129,7 @@ We welcome contributions! Here's how you can help:
 - [ ] COBOL
 - [ ] Fortran
 - [✓] Pascal
-- [ ] Ada
+- [ ] hub 
 - [ ] Lisp
 - [ ] Scheme
 - [ ] Smalltalk
