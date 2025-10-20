@@ -106,10 +106,10 @@ We welcome contributions! Here's how you can help:
 - [✓] Ruby
 - [✓] PHP
 - [ ] Swift
-- [✓] Kotlin
-- Ghufron
+- [✓] Kotlin 
+- [ ] Haskell
 - [ ] Scala
-      alfattich
+- [ ] css
 - [ ] Clojure
 - [ ] Haskell
 - [ ] Elixir
